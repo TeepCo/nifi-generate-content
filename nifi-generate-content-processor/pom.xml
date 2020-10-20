@@ -17,7 +17,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.doxologic.nifi</groupId>
+        <groupId>net.teepco.nifi</groupId>
         <artifactId>nifi-generate-content</artifactId>
         <version>0.1</version>
     </parent>
@@ -47,7 +47,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

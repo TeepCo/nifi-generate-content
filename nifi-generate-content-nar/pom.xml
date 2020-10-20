@@ -17,7 +17,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.doxologic.nifi</groupId>
+        <groupId>net.teepco.nifi</groupId>
         <artifactId>nifi-generate-content</artifactId>
         <version>0.1</version>
     </parent>
@@ -32,7 +32,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.doxologic.nifi</groupId>
+            <groupId>net.teepco.nifi</groupId>
             <artifactId>nifi-generate-content-processor</artifactId>
             <version>0.1</version>
         </dependency>
